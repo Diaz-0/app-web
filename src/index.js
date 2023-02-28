@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import AppEmpleado from './AppAEmpleado';
+import AppEmpleado from './AppEmpleado';
 import reportWebVitals from './reportWebVitals';
 
 //Librerias de bootstrap
