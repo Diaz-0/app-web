@@ -1,1 +1,1 @@
-export * from "./FormAlumno";
+export * from "./FormEmpleado";

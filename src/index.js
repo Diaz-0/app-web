@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import AppAlumno from './AppAlumno';
+import AppEmpleado from './AppAEmpleado';
 import reportWebVitals from './reportWebVitals';
 
 //Librerias de bootstrap
@@ -10,7 +10,7 @@ import 'bootstrap/dist/js/bootstrap.bundle.min.js'
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   
-    <AppAlumno />
+    <AppEmpleado />
   
 );
 
