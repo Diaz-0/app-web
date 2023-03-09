@@ -1,7 +1,7 @@
 import React from 'react'
 import {Routes,Route} from "react-router-dom";
 import {Layout} from "../layouts";
-import { Home,Footer, formEmpleado, AdminEmpleadores } from '../pages';
+import { Home,Footer, formEmpleado,FormEmpleadores, AdminEmpleadores } from '../pages';
 
 export function Rutas() {
     const loadLayouts=(Layout,Page)=>{

@@ -22,7 +22,7 @@ export function Menu() {
               Administración de servicio
             </a>
             <ul class="dropdown-menu">
-              <li><Link class="dropdown-item" to="/persona">Admin personas</Link></li>
+              <li><Link class="dropdown-item" to="/empleador">Admin empleadores</Link></li>
               <li><a class="dropdown-item" href="#">Admin servicios</a></li>
               <li><hr class="dropdown-divider"/></li>
               <li><a class="dropdown-item" href="#">Usuarios</a></li>
